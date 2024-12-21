@@ -1,7 +1,6 @@
 {
   "name": "eKROWN Coin",
   "symbol": "EKRN",
-  "description": "This is a mock-up coins.",
-  "image": "https://github.com/Dkrown/sol-metadata/blob/main/mock_coin_logo.jpg"
-  "attributes": []
+  "description": "Mock-up cryptocurrency on Solana Devnet",
+  "image": "https://raw.githubusercontent.com/Dkrown/sol-metadata/main/mock_coin_logo.jpg"
 }
